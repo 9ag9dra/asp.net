@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Calculator application win form", "01.Calculator application win form\01.Calculator application win form.csproj", "{44016348-3931-4400-8A66-7EA4E88C596C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "add.substract.multoply.divide", "add.substract.multoply.divide\add.substract.multoply.divide.vdproj", "{ADFDEE10-50EE-4484-AD60-F788B615D966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44016348-3931-4400-8A66-7EA4E88C596C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44016348-3931-4400-8A66-7EA4E88C596C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44016348-3931-4400-8A66-7EA4E88C596C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44016348-3931-4400-8A66-7EA4E88C596C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFDEE10-50EE-4484-AD60-F788B615D966}.Debug|Any CPU.ActiveCfg = Debug
+		{ADFDEE10-50EE-4484-AD60-F788B615D966}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B9C02A-7AB3-4A56-97A2-76ED58D555F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.AssemblyReference.cache
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.SuggestedBindingRedirects.cache
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\_01.Calculator_application_win_form.Form1.resources
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\_01.Calculator_application_win_form.Properties.Resources.resources
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.GenerateResource.cache
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.CoreCompileInputs.cache
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\bin\Debug\01.Calculator application win form.exe.config
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\bin\Debug\01.Calculator application win form.exe
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\bin\Debug\01.Calculator application win form.pdb
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.exe
+C:\Users\lg\source\repos\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.pdb
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\bin\Debug\01.Calculator application win form.exe.config
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\bin\Debug\01.Calculator application win form.exe
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\bin\Debug\01.Calculator application win form.pdb
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.AssemblyReference.cache
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.SuggestedBindingRedirects.cache
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\_01.Calculator_application_win_form.Form1.resources
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\_01.Calculator_application_win_form.Properties.Resources.resources
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.GenerateResource.cache
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.csproj.CoreCompileInputs.cache
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.exe
+G:\INTERVIEW PROGRAMS\01.Calculator application win form\01.Calculator application win form\obj\Debug\01.Calculator application win form.pdb
